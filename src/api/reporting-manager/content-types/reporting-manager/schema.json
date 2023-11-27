@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reporting_managers",
+  "info": {
+    "singularName": "reporting-manager",
+    "pluralName": "reporting-managers",
+    "displayName": "Reporting_manager"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "unique": true
+    }
+  }
+}
